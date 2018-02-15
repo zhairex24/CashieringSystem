@@ -1,2 +1,0 @@
-# CashieringSystem
-CAPSTONE Project
